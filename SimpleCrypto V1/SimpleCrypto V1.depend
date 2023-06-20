@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1687297992 source:f:\__oprecovery\8th semester pias vai\2022\cse 4201\simplecrypto v1\main.cpp
+	<iostream>
+	<openssl/md5.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\md5.h
+	<openssl/macros.h>
+	<openssl/opensslconf.h>
+	<openssl/e_os2.h>
+	<stddef.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\macros.h
+	<openssl/opensslconf.h>
+	<openssl/opensslv.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\opensslconf.h
+	<openssl/configuration.h>
+	<openssl/macros.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\configuration.h
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\opensslv.h
+	<openssl/macros.h>
+
+1685452550 c:\program files (x86)\openssl-win32\include\openssl\e_os2.h
+	<openssl/macros.h>
+	<openssl/opensslconf.h>
+	<strings.h>
+	<spthread.h>
+	<pthread.h>
+	<inttypes.h>
+	<stdint.h>
+	<sys/types.h>
+	<stdint.h>
+
